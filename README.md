@@ -41,7 +41,7 @@ Happy assessing, and here's to your continued growth and success in the wonderfu
 
 **Please take some time to reflect on each question and mark your own rating. Honest self-assessment is a crucial step towards personal and professional growth.**
 
-# Recommended Competency Levels for Proficient Engineers
+## Recommended Competency Levels for Proficient Engineers
 
 For a professional to be considered a proficient engineer, certain baseline competencies are essential. While each individual may have unique strengths and areas for improvement, a good engineer typically should score at least in the higher mid-range in most of the following areas on the self-assessment scale. Here are some general guidelines:
 
