@@ -15,7 +15,6 @@ Feel free to use this tool, modify it, and share it with anyone who might find i
 Happy assessing, and here's to your continued growth and success in the wonderful world of engineering!
 
 ## Self-Assessment Table
-# Self-Assessment for Engineering and Technical Professions
 
 | Question | 0 (No Match) | 5 (Partial Match) | 10 (Perfect Match) |
 |----------|--------------|-------------------|--------------------|
